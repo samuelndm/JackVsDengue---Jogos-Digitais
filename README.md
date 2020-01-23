@@ -1,6 +1,6 @@
-# JackVsDengue---Jogos-Digitais
-Protótipo de jogo feito para a matéria de Jogos Digitais - UFCG
+# Jack Vs Dengue - Jogos Digitais
+Game prototype, made for the Digital Games subject of UFCG - Universidade Federal de Campina Grande
 
-Youtube - https://www.youtube.com/watch?v=wFmHNkhI7bc
+- Youtube - https://www.youtube.com/watch?v=wFmHNkhI7bc
 
-Download windows 64 - https://drive.google.com/open?id=0B7lq2QBzS-GFVUFicERPTXFOZ1E
+- Download windows 64 - https://drive.google.com/open?id=0B7lq2QBzS-GFVUFicERPTXFOZ1E
