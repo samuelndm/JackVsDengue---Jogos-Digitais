@@ -1,5 +1,5 @@
 # Jack Vs Dengue
-Game prototype, made for the Digital Games subject of UFCG (Universidade Federal de Campina Grande)
+Game prototype, made for the Digital Games subject of UFCG (Federal University of Campina Grande)
 
 - Youtube - https://www.youtube.com/watch?v=wFmHNkhI7bc
 
